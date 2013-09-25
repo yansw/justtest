@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 gfvbgbgdm,l;.,mhngfbd
 qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqddddddddddddddddddqqqq
+=======
+gfvbgbgdm,l;.,mhngfbd
+>>>>>>> 3712025adec3ee4a12bd732722614b4a00608ad2
